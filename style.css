@@ -1,0 +1,36 @@
+body {
+  background-color: #111;
+  color: #fff;
+  font-family: 'Arial', sans-serif;
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  max-width: 600px;
+  margin: auto;
+  padding: 20px;
+  background: #1c1c1c;
+  border: 2px solid #e60026;
+  border-radius: 10px;
+  box-shadow: 0 0 20px #e60026;
+}
+
+h1 {
+  font-size: 3rem;
+  color: #e60026;
+}
+
+.sukuna-model {
+  width: 100%;
+  max-width: 400px;
+  border-radius: 10px;
+  margin: 20px 0;
+  box-shadow: 0 0 30px #e60026;
+}
+
+.quote {
+  font-style: italic;
+  font-size: 1.2rem;
+  color: #ccc;
+}
